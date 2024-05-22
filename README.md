@@ -1,6 +1,7 @@
 # 3A1
 REPOSITORIO DA TURMA 3A1
 <p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está licenciado sob <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom ;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical -align:texto inferior;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
-![image](https://github.com/Gustavohenrique3a1/3A1/assets/170115237/7949e138-1824-49cb-9319-f544d387cf5e)
 
-
+![](https://media1.tenor.com/m/-t9whuidwBwAAAAC/ninju-shino-buff-mice.gif)
+  
+ :email: 00001100915436sp@al.educacao.sp.gov.br
